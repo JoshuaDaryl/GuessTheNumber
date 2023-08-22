@@ -7,5 +7,5 @@ Mini-hackathon result - https://replit.com/@Joshua-DarylDar/L3JavascriptHackatho
 
 Following this I expanded upon our project and added styling, features, and code refinement.
 
-Final result - 
+Final result - https://joshuadaryl.github.io/GuessTheNumber/
 
